@@ -20,4 +20,8 @@
 
 ## 📉 **Lecture 4: Loss Function**  
 - **คำอธิบาย**: มาดูเรื่องฟังก์ชันค่าความสูญเสีย ตัวช่วยสำคัญในการฝึกโมเดล มีตัวอย่างง่าย ๆ อย่าง MSE และ Cross-Entropy  
-- **YouTube Link**: [Watch Lecture 4](https://youtu.be/tS_YH7-acx0)  
+- **YouTube Link**: [Watch Lecture 4](https://youtu.be/tS_YH7-acx0)
+
+## **Backpopagation on loss function :**
+**Youtube Link** [Watch Lecture 5]
+(https://youtu.be/xkiXrgV-H_Q?si=D7iAGOd_FIff5hBT)
