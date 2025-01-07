@@ -24,4 +24,4 @@
 
 ## **Backpopagation on loss function :**
 **Youtube Link** [Watch Lecture 5]
-(https://youtu.be/D7iAGOd_FIff5hBT)
+(https://youtu.be/xkiXrgV-H_Q?si=D7iAGOd_FIff5hBT) 
