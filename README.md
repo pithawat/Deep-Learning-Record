@@ -25,3 +25,7 @@
 ## **Backpropagation on Loss Function**
 **YouTube Link:** [Watch Lecture 5](https://youtu.be/xkiXrgV-H_Q?si=D7iAGOd_FIff5hBT)
 
+## **Convolutional neural network**
+**Youtube Link:** [watch Lecture 6](https://youtu.be/Of3vov569bw?si=m30AIw4L3LBcog-l)
+
+
