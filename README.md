@@ -22,11 +22,11 @@
 - **คำอธิบาย**: มาดูเรื่องฟังก์ชันค่าความสูญเสีย ตัวช่วยสำคัญในการฝึกโมเดล มีตัวอย่างง่าย ๆ อย่าง MSE และ Cross-Entropy  
 - **YouTube Link**: [Watch Lecture 4](https://youtu.be/tS_YH7-acx0)
 
-## **Backpropagation on Loss Function**
+## **Lecture 5: Backpropagation on Loss Function**
 **YouTube Link:** [Watch Lecture 5](https://youtu.be/xkiXrgV-H_Q?si=D7iAGOd_FIff5hBT)
 
-## **Convolutional neural network**
+## **Lecture 6: Convolutional neural network**
 **Youtube Link:** [watch Lecture 6](https://youtu.be/Of3vov569bw?si=m30AIw4L3LBcog-l)
 
-## **Example of backpropagation in CNN**
+## **Lecture 7: Example of backpropagation in CNN**
 **Youtube Link:** [watch Lecture 7](https://youtu.be/O4FHllT_PeI?si=cYI8CDwXaEaVArTH)
