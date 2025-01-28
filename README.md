@@ -29,4 +29,4 @@
 **Youtube Link:** [watch Lecture 6](https://youtu.be/Of3vov569bw?si=m30AIw4L3LBcog-l)
 
 ## **Example of backpropagation in CNN**
-**Youtube Link:** [watch Lecture 7] (https://youtu.be/O4FHllT_PeI?si=cYI8CDwXaEaVArTH)
+**Youtube Link:** [watch Lecture 7](https://youtu.be/O4FHllT_PeI?si=cYI8CDwXaEaVArTH)
