@@ -30,3 +30,7 @@
 
 ## **Lecture 7: Example of backpropagation in CNN**
 **Youtube Link:** [watch Lecture 7](https://youtu.be/O4FHllT_PeI?si=cYI8CDwXaEaVArTH)
+
+
+## **Lecture 9: NLP**
+**Youtube Link:** [watch Lecture 9](https://youtu.be/cJDii0vmzHM?feature=shared)
